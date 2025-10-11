@@ -1,0 +1,163 @@
+Mounting webdrive...
+Webdrive mounted successfully at /home/doptrackbox/tudelft_webdrive.
+[ERROR] Failed to process FUNcube-1_39444_202509091404: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509091404_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509091536: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509091536_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509091712: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509091712_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509100310: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509100310_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509100443: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509100443_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509100618: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509100618_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509100754: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509100754_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509101402: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509101402_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509101534: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509101534_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509101710: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509101710_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509110308: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509110308_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509110441: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509110441_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509110616: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509110616_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509110752: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509110752_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509111400: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509111400_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509111532: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509111532_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509111707: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509111707_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509120438: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509120438_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509120613: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509120613_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509120749: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509120749_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509121357: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509121357_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509121529: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509121529_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509121705: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509121705_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509130435: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509130435_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509130610: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509130610_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509130747: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509130747_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509131355: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509131355_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509131527: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509131527_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509131702: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509131702_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509140433: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509140433_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509140608: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509140608_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509140744: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509140744_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509141352: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509141352_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509141524: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509141524_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509141659: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509141659_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509150430: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509150430_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509150605: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509150605_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509150741: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509150741_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509151350: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509151350_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509151522: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509151522_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509151657: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509151657_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509160428: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509160428_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509160603: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509160603_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509160739: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509160739_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509161348: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509161348_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509161519: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509161519_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509161654: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509161654_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509170425: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509170425_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509170600: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509170600_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509170736: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509170736_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509171345: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509171345_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509171517: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509171517_145935kHz.txt'
+[ERROR] Failed to process FUNcube-1_39444_202509171651: [Errno 2] No such file or directory: '/home/doptrackbox/DTB_Recordings/locally_processed/Processed/DopTrack/RawSignalsFreq/FUNcube-1_39444_202509171651_145935kHz.txt'
+Webdrive unmounted from /home/doptrackbox/tudelft_webdrive.
+Running processing scheduler script
+[INFO] Launching processing for: FUNcube-1_39444_202509091404
+[ERROR] Processing FUNcube-1_39444_202509091404 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509091536
+[ERROR] Processing FUNcube-1_39444_202509091536 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509091712
+[ERROR] Processing FUNcube-1_39444_202509091712 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509100310
+[ERROR] Processing FUNcube-1_39444_202509100310 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509100443
+[ERROR] Processing FUNcube-1_39444_202509100443 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509100618
+[ERROR] Processing FUNcube-1_39444_202509100618 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509100754
+[ERROR] Processing FUNcube-1_39444_202509100754 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509101402
+[ERROR] Processing FUNcube-1_39444_202509101402 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509101534
+[ERROR] Processing FUNcube-1_39444_202509101534 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509101710
+[ERROR] Processing FUNcube-1_39444_202509101710 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509110308
+[ERROR] Processing FUNcube-1_39444_202509110308 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509110441
+[ERROR] Processing FUNcube-1_39444_202509110441 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509110616
+[ERROR] Processing FUNcube-1_39444_202509110616 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509110752
+[ERROR] Processing FUNcube-1_39444_202509110752 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509111400
+[ERROR] Processing FUNcube-1_39444_202509111400 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509111532
+[ERROR] Processing FUNcube-1_39444_202509111532 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509111707
+[ERROR] Processing FUNcube-1_39444_202509111707 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509120438
+[ERROR] Processing FUNcube-1_39444_202509120438 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509120613
+[ERROR] Processing FUNcube-1_39444_202509120613 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509120749
+[ERROR] Processing FUNcube-1_39444_202509120749 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509121357
+[ERROR] Processing FUNcube-1_39444_202509121357 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509121529
+[ERROR] Processing FUNcube-1_39444_202509121529 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509121705
+[ERROR] Processing FUNcube-1_39444_202509121705 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509130435
+[ERROR] Processing FUNcube-1_39444_202509130435 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509130610
+[ERROR] Processing FUNcube-1_39444_202509130610 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509130747
+[ERROR] Processing FUNcube-1_39444_202509130747 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509131355
+[ERROR] Processing FUNcube-1_39444_202509131355 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509131527
+[ERROR] Processing FUNcube-1_39444_202509131527 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509131702
+[ERROR] Processing FUNcube-1_39444_202509131702 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509140433
+[ERROR] Processing FUNcube-1_39444_202509140433 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509140608
+[ERROR] Processing FUNcube-1_39444_202509140608 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509140744
+[ERROR] Processing FUNcube-1_39444_202509140744 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509141352
+[ERROR] Processing FUNcube-1_39444_202509141352 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509141524
+[ERROR] Processing FUNcube-1_39444_202509141524 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509141659
+[ERROR] Processing FUNcube-1_39444_202509141659 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509150430
+[ERROR] Processing FUNcube-1_39444_202509150430 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509150605
+[ERROR] Processing FUNcube-1_39444_202509150605 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509150741
+[ERROR] Processing FUNcube-1_39444_202509150741 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509151350
+[ERROR] Processing FUNcube-1_39444_202509151350 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509151522
+[ERROR] Processing FUNcube-1_39444_202509151522 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509151657
+[ERROR] Processing FUNcube-1_39444_202509151657 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509160428
+[ERROR] Processing FUNcube-1_39444_202509160428 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509160603
+[ERROR] Processing FUNcube-1_39444_202509160603 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509160739
+[ERROR] Processing FUNcube-1_39444_202509160739 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509161348
+[ERROR] Processing FUNcube-1_39444_202509161348 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509161519
+[ERROR] Processing FUNcube-1_39444_202509161519 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509161654
+[ERROR] Processing FUNcube-1_39444_202509161654 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509170425
+[ERROR] Processing FUNcube-1_39444_202509170425 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509170600
+[ERROR] Processing FUNcube-1_39444_202509170600 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509170736
+[ERROR] Processing FUNcube-1_39444_202509170736 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509171345
+[ERROR] Processing FUNcube-1_39444_202509171345 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509171517
+[ERROR] Processing FUNcube-1_39444_202509171517 failed with exit code 1
+[INFO] Launching processing for: FUNcube-1_39444_202509171651
+[ERROR] Processing FUNcube-1_39444_202509171651 failed with exit code 1

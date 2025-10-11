@@ -1,0 +1,3156 @@
+/home/doptrackbox/DTB_Recordings/data/NOAA-2/2025/NOAA-2_06235_202508061801
+[INFO] Launching processing for: NOAA-2_06235_202508061801
+/home/doptrackbox/DTB_Recordings/data/NOAA-2/2025/NOAA-2_06235_202508061954
+[INFO] Launching processing for: NOAA-2_06235_202508061954
+/home/doptrackbox/DTB_Recordings/data/NOAA-2/2025/NOAA-2_06235_202508070749
+[INFO] Launching processing for: NOAA-2_06235_202508070749
+/home/doptrackbox/DTB_Recordings/data/NOAA-2/2025/NOAA-2_06235_202508070942
+[INFO] Launching processing for: NOAA-2_06235_202508070942
+/home/doptrackbox/DTB_Recordings/data/NOAA-2/2025/NOAA-2_06235_202508071703
+[INFO] Launching processing for: NOAA-2_06235_202508071703
+/home/doptrackbox/DTB_Recordings/data/NOAA-2/2025/NOAA-2_06235_202508080650
+[INFO] Launching processing for: NOAA-2_06235_202508080650
+/home/doptrackbox/DTB_Recordings/data/NOAA-2/2025/NOAA-2_06235_202508081606
+[INFO] Launching processing for: NOAA-2_06235_202508081606
+/home/doptrackbox/DTB_Recordings/data/NOAA-2/2025/NOAA-2_06235_202508081755
+[INFO] Launching processing for: NOAA-2_06235_202508081755
+/home/doptrackbox/DTB_Recordings/data/NOAA-2/2025/NOAA-2_06235_202508081948
+[INFO] Launching processing for: NOAA-2_06235_202508081948
+/home/doptrackbox/DTB_Recordings/data/NOAA-2/2025/NOAA-2_06235_202508090743
+[INFO] Launching processing for: NOAA-2_06235_202508090743
+/home/doptrackbox/DTB_Recordings/data/NOAA-2/2025/NOAA-2_06235_202508090936
+[INFO] Launching processing for: NOAA-2_06235_202508090936
+/home/doptrackbox/miniconda3/envs/venv/lib/python3.13/site-packages/numpy/_core/fromnumeric.py:3860: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/doptrackbox/miniconda3/envs/venv/lib/python3.13/site-packages/numpy/_core/_methods.py:144: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/home/doptrackbox/miniconda3/envs/venv/lib/python3.13/site-packages/numpy/fft/_pocketfft.py:101: RuntimeWarning: invalid value encountered in cast
+  return ufunc(a, fct, axes=[(axis,), (), (axis,)], out=out)
+/home/doptrackbox/miniconda3/envs/venv/lib/python3.13/site-packages/numpy/fft/_pocketfft.py:101: RuntimeWarning: invalid value encountered in fft
+  return ufunc(a, fct, axes=[(axis,), (), (axis,)], out=out)
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+[ERROR] Failed to process ESEO_43792_202507312129: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 0, the array at index 0 has size 1480 and the array at index 1 has size 1487
+/home/doptrackbox/miniconda3/envs/venv/lib/python3.13/site-packages/numpy/fft/_pocketfft.py:101: RuntimeWarning: invalid value encountered in cast
+  return ufunc(a, fct, axes=[(axis,), (), (axis,)], out=out)
+/home/doptrackbox/miniconda3/envs/venv/lib/python3.13/site-packages/numpy/_core/fromnumeric.py:3860: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/doptrackbox/miniconda3/envs/venv/lib/python3.13/site-packages/numpy/_core/_methods.py:144: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/home/doptrackbox/miniconda3/envs/venv/lib/python3.13/site-packages/numpy/fft/_pocketfft.py:101: RuntimeWarning: invalid value encountered in fft
+  return ufunc(a, fct, axes=[(axis,), (), (axis,)], out=out)
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+[ERROR] Failed to process NAYIF_42017_202211141147: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 0, the array at index 0 has size 294 and the array at index 1 has size 300
+/home/doptrackbox/miniconda3/envs/venv/lib/python3.13/site-packages/numpy/_core/fromnumeric.py:3860: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/doptrackbox/miniconda3/envs/venv/lib/python3.13/site-packages/numpy/_core/_methods.py:144: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/home/doptrackbox/miniconda3/envs/venv/lib/python3.13/site-packages/numpy/fft/_pocketfft.py:101: RuntimeWarning: invalid value encountered in cast
+  return ufunc(a, fct, axes=[(axis,), (), (axis,)], out=out)
+/home/doptrackbox/miniconda3/envs/venv/lib/python3.13/site-packages/numpy/fft/_pocketfft.py:101: RuntimeWarning: invalid value encountered in fft
+  return ufunc(a, fct, axes=[(axis,), (), (axis,)], out=out)
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+[ERROR] Failed to process NOAA-2_6235_202508011000: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 0, the array at index 0 has size 687 and the array at index 1 has size 694
+Running processing scheduler script
+[INFO] Launching processing for: ESEO_43792_202507312129
+[ERROR] Processing ESEO_43792_202507312129 failed with exit code 1
+[INFO] Launching processing for: NAYIF_42017_202211141147
+[ERROR] Processing NAYIF_42017_202211141147 failed with exit code 1
+[INFO] Launching processing for: NOAA-15_25338_202507302059
+[INFO] Launching processing for: NOAA-15_25338_202507311853
+[INFO] Launching processing for: NOAA-15_25338_202508010841
+[INFO] Launching processing for: NOAA-15_25338_202508011828
+[INFO] Launching processing for: NOAA-15_25338_202508012006
+[INFO] Launching processing for: NOAA-15_25338_202508012148
+[INFO] Launching processing for: NOAA-15_25338_202508020815
+[INFO] Launching processing for: NOAA-15_25338_202508020954
+[INFO] Launching processing for: NOAA-15_25338_202508021134
+[INFO] Launching processing for: NOAA-15_25338_202508021802
+[INFO] Launching processing for: NOAA-15_25338_202508021940
+[INFO] Launching processing for: NOAA-15_25338_202508022121
+[INFO] Launching processing for: NOAA-15_25338_202508030749
+[INFO] Launching processing for: NOAA-15_25338_202508030928
+[INFO] Launching processing for: NOAA-15_25338_202508031737
+[INFO] Launching processing for: NOAA-15_25338_202508031914
+[INFO] Launching processing for: NOAA-15_25338_202508040723
+[INFO] Launching processing for: NOAA-15_25338_202508041713
+[INFO] Launching processing for: NOAA-15_25338_202508041848
+[INFO] Launching processing for: NOAA-15_25338_202508050836
+[INFO] Launching processing for: NOAA-15_25338_202508060810
+[INFO] Launching processing for: NOAA-15_25338_202508060950
+[INFO] Launching processing for: NOAA-15_25338_202508061935
+[INFO] Launching processing for: NOAA-15_25338_202508062116
+[INFO] Launching processing for: NOAA-15_25338_202508070923
+[INFO] Launching processing for: NOAA-15_25338_202508071909
+[INFO] Launching processing for: NOAA-15_25338_202508072049
+[INFO] Launching processing for: NOAA-15_25338_202508081037
+[INFO] Launching processing for: NOAA-15_25338_202508082023
+[INFO] Launching processing for: NOAA-15_25338_202508090831
+[INFO] Launching processing for: NOAA-15_25338_202508110919
+[INFO] Launching processing for: NOAA-15_25338_202508120852
+[INFO] Launching processing for: NOAA-15_25338_202508121032
+[INFO] Launching processing for: NOAA-15_25338_202508130826
+[INFO] Launching processing for: NOAA-15_25338_202508131006
+[INFO] Launching processing for: NOAA-19_33591_202507302315
+[INFO] Launching processing for: NOAA-19_33591_202508011258
+[INFO] Launching processing for: NOAA-19_33591_202508011440
+[INFO] Launching processing for: NOAA-19_33591_202508012110
+[INFO] Launching processing for: NOAA-19_33591_202508012249
+[INFO] Launching processing for: NOAA-19_33591_202508021105
+[INFO] Launching processing for: NOAA-19_33591_202508021246
+[INFO] Launching processing for: NOAA-19_33591_202508021427
+[INFO] Launching processing for: NOAA-19_33591_202508022058
+[INFO] Launching processing for: NOAA-19_33591_202508022236
+[INFO] Launching processing for: NOAA-19_33591_202508030006
+[INFO] Launching processing for: NOAA-19_33591_202508031052
+[INFO] Launching processing for: NOAA-19_33591_202508031233
+[INFO] Launching processing for: NOAA-19_33591_202508031414
+[INFO] Launching processing for: NOAA-19_33591_202508032046
+[INFO] Launching processing for: NOAA-19_33591_202508032224
+[INFO] Launching processing for: NOAA-19_33591_202508041040
+[INFO] Launching processing for: NOAA-19_33591_202508041220
+[INFO] Launching processing for: NOAA-19_33591_202508041401
+[INFO] Launching processing for: NOAA-19_33591_202508042033
+[INFO] Launching processing for: NOAA-19_33591_202508042211
+[INFO] Launching processing for: NOAA-19_33591_202508042353
+[INFO] Launching processing for: NOAA-19_33591_202508051027
+[INFO] Launching processing for: NOAA-19_33591_202508051207
+[INFO] Launching processing for: NOAA-19_33591_202508052159
+[INFO] Launching processing for: NOAA-19_33591_202508052340
+[INFO] Launching processing for: NOAA-19_33591_202508061155
+[INFO] Launching processing for: NOAA-19_33591_202508061336
+[INFO] Launching processing for: NOAA-19_33591_202508062146
+[INFO] Launching processing for: NOAA-19_33591_202508062327
+[INFO] Launching processing for: NOAA-19_33591_202508071142
+[INFO] Launching processing for: NOAA-19_33591_202508071323
+[INFO] Launching processing for: NOAA-19_33591_202508072134
+[INFO] Launching processing for: NOAA-19_33591_202508072314
+[INFO] Launching processing for: NOAA-19_33591_202508081129
+[INFO] Launching processing for: NOAA-19_33591_202508081310
+[INFO] Launching processing for: NOAA-19_33591_202508082122
+[INFO] Launching processing for: NOAA-19_33591_202508082301
+[INFO] Launching processing for: NOAA-19_33591_202508091117
+[INFO] Launching processing for: NOAA-19_33591_202508101245
+[INFO] Launching processing for: NOAA-2_06235_202508011721
+[INFO] Launching processing for: NOAA-2_06235_202508011913
+[INFO] Launching processing for: NOAA-2_06235_202508020708
+[INFO] Launching processing for: NOAA-2_06235_202508020900
+[INFO] Launching processing for: NOAA-2_06235_202508022007
+[INFO] Launching processing for: NOAA-2_06235_202508030954
+[INFO] Launching processing for: NOAA-2_06235_202508032103
+[INFO] Launching processing for: NOAA-2_06235_202508041240
+[INFO] Launching processing for: NOAA-2_06235_202508041429
+[INFO] Launching processing for: NOAA-2_06235_202508041617
+[INFO] Launching processing for: NOAA-2_06235_202508041807
+[INFO] Launching processing for: NOAA-2_06235_202508050948
+[INFO] Launching processing for: NOAA-2_06235_202508051141
+[INFO] Launching processing for: NOAA-2_06235_202508051709
+[INFO] Launching processing for: NOAA-2_06235_202508051900
+[INFO] Launching processing for: NOAA-2_06235_202508060656
+[INFO] Launching processing for: NOAA-2_06235_202508060848
+[INFO] Launching processing for: NOAA-2_06235_202508061041
+[INFO] Launching processing for: NOAA-2_06235_202508061611
+[INFO] Launching processing for: NOAA-2_06235_202508061801
+[INFO] Launching processing for: NOAA-2_06235_202508061954
+[INFO] Launching processing for: NOAA-2_06235_202508070749
+[INFO] Launching processing for: NOAA-2_06235_202508070942
+[INFO] Launching processing for: NOAA-2_06235_202508071703
+[INFO] Launching processing for: NOAA-2_06235_202508080650
+[INFO] Launching processing for: NOAA-2_06235_202508081606
+[INFO] Launching processing for: NOAA-2_06235_202508081755
+[INFO] Launching processing for: NOAA-2_06235_202508081948
+[INFO] Launching processing for: NOAA-2_06235_202508090743
+[INFO] Launching processing for: NOAA-2_06235_202508090936
+[INFO] Launching processing for: NOAA-2_06235_202508101749
+[INFO] Launching processing for: NOAA-2_6235_202507301726
+[INFO] Launching processing for: NOAA-2_6235_202507301919
+[INFO] Launching processing for: NOAA-2_6235_202507311819
+[INFO] Launching processing for: NOAA-2_6235_202507312013
+[INFO] Launching processing for: NOAA-2_6235_202508010807
+[INFO] Launching processing for: NOAA-2_6235_202508011000
+[ERROR] Processing NOAA-2_6235_202508011000 failed with exit code 1
+[INFO] Launching processing for: NOAA-2_6235_202508011343
+[INFO] Launching processing for: NOAA-9_15427_202507301858
+[INFO] Launching processing for: NOAA-9_15427_202507302039
+[INFO] Launching processing for: NOAA-9_15427_202508010656
+[INFO] Launching processing for: NOAA-9_15427_202508031125
+[INFO] Launching processing for: NOAA-9_15427_202508031618
+[INFO] Launching processing for: NOAA-9_15427_202508031754
+[INFO] Launching processing for: NOAA-9_15427_202508031933
+[INFO] Launching processing for: NOAA-9_15427_202508040747
+[INFO] Launching processing for: NOAA-9_15427_202508040927
+[INFO] Launching processing for: NOAA-9_15427_202508041108
+[INFO] Launching processing for: NOAA-9_15427_202508041738
+[INFO] Launching processing for: NOAA-9_15427_202508041917
+[INFO] Launching processing for: NOAA-9_15427_202508042059
+[INFO] Launching processing for: NOAA-9_15427_202508050731
+[INFO] Launching processing for: NOAA-9_15427_202508050911
+[INFO] Launching processing for: NOAA-9_15427_202508051052
+[INFO] Launching processing for: NOAA-9_15427_202508052042
+[INFO] Launching processing for: NOAA-9_15427_202508061845
+[INFO] Launching processing for: NOAA-9_15427_202508062026
+[INFO] Launching processing for: NOAA-9_15427_202508070839
+[INFO] Launching processing for: NOAA-9_15427_202508071019
+[INFO] Launching processing for: NOAA-9_15427_202508071829
+[INFO] Launching processing for: NOAA-9_15427_202508072009
+[INFO] Launching processing for: NOAA-9_15427_202508081003
+[INFO] Launching processing for: NOAA-9_15427_202508101920
+[INFO] Launching processing for: SONATE-2_59112_202507301545
+[INFO] Launching processing for: SONATE-2_59112_202508020247
+[INFO] Launching processing for: SONATE-2_59112_202508030142
+[INFO] Launching processing for: SONATE-2_59112_202508030214
+[INFO] Launching processing for: SONATE-2_59112_202508030347
+[INFO] Launching processing for: SONATE-2_59112_202508031504
+[INFO] Launching processing for: SONATE-2_59112_202508031636
+[INFO] Launching processing for: SONATE-2_59112_202508040447
+[INFO] Launching processing for: SONATE-2_59112_202508041602
+[INFO] Launching processing for: SONATE-2_59112_202508050412
+[INFO] Launching processing for: SONATE-2_59112_202508070304
+[INFO] Launching processing for: SONATE-2_59112_202508071554
+[INFO] Launching processing for: SONATE-2_59112_202508071727
+[INFO] Launching processing for: SONATE-2_59112_202508080231
+[INFO] Launching processing for: TRANSIT5B-5_00965_202507301801
+[INFO] Launching processing for: TRANSIT5B-5_00965_202507312037
+[INFO] Launching processing for: TRANSIT5B-5_00965_202508010401
+[INFO] Launching processing for: TRANSIT5B-5_00965_202508010547
+[INFO] Launching processing for: TRANSIT5B-5_00965_202508010733
+[INFO] Launching processing for: TRANSIT5B-5_00965_202508020447
+[INFO] Launching processing for: TRANSIT5B-5_00965_202508020633
+[INFO] Launching processing for: TRANSIT5B-5_00965_202508030534
+[INFO] Launching processing for: TRANSIT5B-5_00965_202508030720
+[INFO] Launching processing for: TRANSIT5B-5_00965_202508040807
+[INFO] Launching processing for: TRANSIT5B-5_00965_202508050707
+[INFO] Launching processing for: TRANSIT5B-5_00965_202508051539
+[INFO] Launching processing for: TRANSIT5B-5_00965_202508070508
+[INFO] Launching processing for: TRANSIT5B-5_00965_202508070654
+[INFO] Launching processing for: Z-Sat_49399_202508091025
+[INFO] Launching processing for: Z-Sat_49399_202508102058
+[INFO] Launching processing for: Z-Sat_49399_202508110959
+[INFO] Launching processing for: Z-Sat_49399_202508112045
+[INFO] Launching processing for: Z-Sat_49399_202508120946
+[INFO] Launching processing for: Z-Sat_49399_202508121120
+[INFO] Launching processing for: Z-Sat_49399_202508122032
+[INFO] Launching processing for: Z-Sat_49399_202508122207
+[INFO] Launching processing for: Z-Sat_49399_202508130933
+[INFO] Launching processing for: Z-Sat_49399_202508131107
+[INFO] Launching processing for: Z-Sat_49399_202508132019
+/home/doptrackbox/DTB_Software/adapted_processing/curvefit.py:130: OptimizeWarning: Covariance of the parameters could not be estimated
+  params, cov = curve_fit(tanh, data[:,0], data[:,1], p0=initial_guess, bounds=limits)
+[ERROR] Failed to process ATIS_99999_202501010005_128565kHz: too many indices for array: array is 1-dimensional, but 2 were indexed
+[ERROR] Failed to process ATIS_99999_202501010007_128565kHz: too many indices for array: array is 1-dimensional, but 2 were indexed
+[ERROR] Failed to process ATIS_99999_202501010008_128565kHz: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/doptrackbox/DTB_Software/adapted_processing/curvefit.py:130: OptimizeWarning: Covariance of the parameters could not be estimated
+  params, cov = curve_fit(tanh, data[:,0], data[:,1], p0=initial_guess, bounds=limits)
+[ERROR] Failed to process ATIS_99999_202501010010_128565kHz: too many indices for array: array is 1-dimensional, but 2 were indexed
+[ERROR] Failed to process ATIS_99999_202501010012_128565kHz: too many indices for array: array is 1-dimensional, but 2 were indexed
+[ERROR] Failed to process ESEO_43792_202508042258_145895kHz: Optimal parameters not found: The maximum number of function evaluations is exceeded.
+Running plotting scheduler script
+[INFO] Launching curvefit for: ATIS_99999_202501010001_128565kHz
+[INFO] Launching curvefit for: ATIS_99999_202501010002_128565kHz
+[INFO] Launching curvefit for: ATIS_99999_202501010003_128565kHz
+[INFO] Launching curvefit for: ATIS_99999_202501010004_128565kHz
+[INFO] Launching curvefit for: ATIS_99999_202501010005_128565kHz
+[ERROR] Processing ATIS_99999_202501010005_128565kHz failed with exit code 1
+[INFO] Launching curvefit for: ATIS_99999_202501010006_128565kHz
+[INFO] Launching curvefit for: ATIS_99999_202501010007_128565kHz
+[ERROR] Processing ATIS_99999_202501010007_128565kHz failed with exit code 1
+[INFO] Launching curvefit for: ATIS_99999_202501010008_128565kHz
+[ERROR] Processing ATIS_99999_202501010008_128565kHz failed with exit code 1
+[INFO] Launching curvefit for: ATIS_99999_202501010009_128565kHz
+[INFO] Launching curvefit for: ATIS_99999_202501010010_128565kHz
+[ERROR] Processing ATIS_99999_202501010010_128565kHz failed with exit code 1
+[INFO] Launching curvefit for: ATIS_99999_202501010011_128565kHz
+[INFO] Launching curvefit for: ATIS_99999_202501010012_128565kHz
+[ERROR] Processing ATIS_99999_202501010012_128565kHz failed with exit code 1
+[INFO] Launching curvefit for: ATIS_99999_202501010013_128565kHz
+[INFO] Launching curvefit for: ATIS_99999_202501010014_128565kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508132329_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508141245_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508142344_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508151300_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508152223_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508152359_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508160013_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508161139_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508161314_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508162238_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508170028_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508171153_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508171329_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508172252_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508181208_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508181344_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508182306_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508191222_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508191358_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508192321_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508201237_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508202335_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508211251_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508212215_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508212350_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508220005_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508221306_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508222229_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508230020_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508231145_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508231321_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508232243_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508240035_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508241159_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508241335_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508242258_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508251214_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508251350_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508252312_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508261228_145890kHz
+[INFO] Launching curvefit for: CAS-6_44881_202508262327_145890kHz
+[INFO] Launching curvefit for: DIWATA-2_43678_202508132044_145900kHz
+[INFO] Launching curvefit for: DIWATA-2_43678_202508140602_145900kHz
+[INFO] Launching curvefit for: DIWATA-2_43678_202508141911_145900kHz
+[INFO] Launching curvefit for: DIWATA-2_43678_202508142047_145900kHz
+[INFO] Launching curvefit for: DIWATA-2_43678_202508150604_145900kHz
+[INFO] Launching curvefit for: DIWATA-2_43678_202508151913_145900kHz
+[INFO] Launching curvefit for: DIWATA-2_43678_202508152049_145900kHz
+[INFO] Launching curvefit for: DIWATA-2_43678_202508160606_145900kHz
+[INFO] Launching curvefit for: DIWATA-2_43678_202508161916_145900kHz
+[INFO] Launching curvefit for: DIWATA-2_43678_202508162051_145900kHz
+[INFO] Launching curvefit for: DIWATA-2_43678_202508170609_145900kHz
+[INFO] Launching curvefit for: DIWATA-2_43678_202508171918_145900kHz
+[INFO] Launching curvefit for: DIWATA-2_43678_202508180611_145900kHz
+[INFO] Launching curvefit for: EMPTY_99999_202501010002_145935kHz
+[INFO] Launching curvefit for: EMPTY_99999_202501010003_145935kHz
+[INFO] Launching curvefit for: ESEO_43792_202507301958_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202507302131_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202507311956_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202507312306_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202508011036_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202508011211_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202508012128_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202508021034_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202508021210_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202508022302_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202508030859_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202508031033_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202508031208_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202508032124_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202508032300_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202508041206_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202508042122_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202508042258_145895kHz
+[ERROR] Processing ESEO_43792_202508042258_145895kHz failed with exit code 1
+[INFO] Launching curvefit for: ESEO_43792_202508050855_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202508052120_145895kHz
+[INFO] Launching curvefit for: ESEO_43792_202508072117_145895kHz
+[INFO] Launching curvefit for: FMRAD_99999_202501010001_100700kHz
+[INFO] Launching curvefit for: FMRAD_99999_202501010002_100700kHz
+[INFO] Launching curvefit for: FMRAD_99999_202501010003_100700kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507250446_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507251537_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507251713_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507260444_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507260619_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507261535_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507261711_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507270442_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507270617_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507271534_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507271709_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507280441_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507280616_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507291530_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507291706_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507300437_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507300612_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507301528_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507301704_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507311526_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507311702_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508010433_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508010608_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508011524_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508011700_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508020431_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508020606_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508021523_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508021658_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508030429_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508030430_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508030604_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508031349_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508031520_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508031656_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508040428_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508040602_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508041347_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508041519_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508041654_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508050426_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508050601_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508051345_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508051517_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508051652_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508060424_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508060559_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508061515_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508061650_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508070422_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508070557_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508071513_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508071648_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508080420_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508080555_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508081511_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508081646_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508090418_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508090553_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508101507_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508101642_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508110549_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508111505_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508111640_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508120547_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508130545_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508131636_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508140543_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508141459_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508141634_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508150541_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508151457_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508151632_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508160539_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508161456_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508161630_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508170537_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508171454_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508171628_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508180535_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508181452_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508181626_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508190533_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508191624_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508200531_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508201621_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508210528_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508211619_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508220526_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508221617_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508230524_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508231615_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508240522_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508241613_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508250520_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508251611_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508260518_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508270516_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508271607_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508280513_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508281604_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508290511_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508291602_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508300509_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508301600_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508310507_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508311558_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509010505_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509020502_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509021553_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509030500_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509031551_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509040458_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509041549_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509050455_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509051546_145935kHz
+[INFO] Launching curvefit for: ISS_25544_202508011612_145800kHz
+[INFO] Launching curvefit for: ISS_25544_202508011612_145825kHz
+[INFO] Launching curvefit for: ISS_25544_202508011749_145800kHz
+[INFO] Launching curvefit for: ISS_25544_202508011749_145825kHz
+[INFO] Launching curvefit for: ISS_25544_202508021837_145800kHz
+[INFO] Launching curvefit for: ISS_25544_202508021837_145825kHz
+[INFO] Launching curvefit for: ISS_25544_202508031259_145800kHz
+[INFO] Launching curvefit for: ISS_25544_202508031259_145825kHz
+[INFO] Launching curvefit for: ISS_25544_202508031435_145800kHz
+[INFO] Launching curvefit for: ISS_25544_202508031435_145825kHz
+[INFO] Launching curvefit for: ISS_25544_202508051123_145800kHz
+[INFO] Launching curvefit for: ISS_25544_202508051123_145825kHz
+[INFO] Launching curvefit for: ISS_25544_202508071121_145800kHz
+[INFO] Launching curvefit for: ISS_25544_202508071121_145825kHz
+[INFO] Launching curvefit for: ISS_25544_202508071257_145800kHz
+[INFO] Launching curvefit for: ISS_25544_202508071257_145825kHz
+[INFO] Launching curvefit for: ISS_25544_202508071434_145800kHz
+[INFO] Launching curvefit for: ISS_25544_202508071434_145825kHz
+[INFO] Launching curvefit for: ISS_25544_202508071610_145800kHz
+[INFO] Launching curvefit for: ISS_25544_202508071610_145825kHz
+[INFO] Launching curvefit for: ISS_25544_202508081208_145800kHz
+[INFO] Launching curvefit for: ISS_25544_202508081208_145825kHz
+[INFO] Launching curvefit for: ISS_25544_202508081345_145800kHz
+[INFO] Launching curvefit for: ISS_25544_202508081345_145825kHz
+[INFO] Launching curvefit for: NAYIF_42017_202211141014_145939kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202507302059_137620kHz[ERROR] Failed to retrieve YML file for file NOAA-19_33591_202508141154_137100kHz: [Errno 2] No such file or directory: '/home/doptrackbox/tudelft_webdrive/staff-umbrella/doptrack/archive/Dylano/DopTrackBox/NOAA-19/2025/NOAA-19_33591_202508141154.yml'
+[ERROR] Failed to retrieve YML file for file NOAA-19_33591_202508141335_137100kHz: [Errno 2] No such file or directory: '/home/doptrackbox/tudelft_webdrive/staff-umbrella/doptrack/archive/Dylano/DopTrackBox/NOAA-19/2025/NOAA-19_33591_202508141335.yml'
+[ERROR] Failed to retrieve YML file for file NOAA-19_33591_202508142326_137100kHz: [Errno 2] No such file or directory: '/home/doptrackbox/tudelft_webdrive/staff-umbrella/doptrack/archive/Dylano/DopTrackBox/NOAA-19/2025/NOAA-19_33591_202508142326.yml'
+
+[INFO] Launching curvefit for: NOAA-15_25338_202507311853_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508010841_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508011828_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508012006_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508012148_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508020815_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508020954_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508021134_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508021802_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508021940_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508022121_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508030749_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508030928_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508031737_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508031914_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508040723_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508041713_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508041848_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508050836_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508060810_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508060950_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508061935_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508062116_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508070923_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508071909_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508072049_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508081037_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508082023_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508090831_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508110919_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508120852_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508121032_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508130826_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508131006_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508140940_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508141926_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508142106_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508150914_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508160848_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508161834_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508162013_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508170822_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508171947_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508180935_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508190909_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508191855_137620kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202507302315_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508011258_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508011440_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508012110_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508012249_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508021105_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508021246_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508021427_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508022058_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508022236_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508030006_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508031052_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508031233_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508031414_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508032046_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508032224_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508041040_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508041220_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508041401_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508042033_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508042211_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508042353_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508051027_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508051207_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508052159_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508052340_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508061155_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508061336_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508062146_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508062327_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508071142_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508071323_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508072134_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508072314_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508081129_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508081310_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508082122_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508082301_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508091117_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508101245_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508141154_137100kHz
+[ERROR] Processing NOAA-19_33591_202508141154_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508141335_137100kHz
+[ERROR] Processing NOAA-19_33591_202508141335_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508142326_137100kHz
+[ERROR] Processing NOAA-19_33591_202508142326_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-2_06235_202508011721_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508011913_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508020708_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508020900_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508022007_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508030954_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508032103_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508041240_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508041429_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508041617_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508041807_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508050948_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508051141_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508051709_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508051900_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508060656_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508060848_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508061041_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508061611_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508061801_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508061954_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508070749_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508070942_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508071703_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508080650_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508081606_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508081755_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508081948_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508090743_137620kHz[ERROR] Failed to process TRANSIT5B-5_00965_202508020447_136659kHz: Optimal parameters not found: The maximum number of function evaluations is exceeded.
+
+[INFO] Launching curvefit for: NOAA-2_06235_202508090936_137620kHz
+[INFO] Launching curvefit for: NOAA-2_06235_202508101749_137620kHz
+[INFO] Launching curvefit for: NOAA-2_6235_202507301726_137620kHz
+[INFO] Launching curvefit for: NOAA-2_6235_202507301919_137620kHz
+[INFO] Launching curvefit for: NOAA-2_6235_202507311819_137620kHz
+[INFO] Launching curvefit for: NOAA-2_6235_202507312013_137620kHz
+[INFO] Launching curvefit for: NOAA-2_6235_202508010807_137620kHz
+[INFO] Launching curvefit for: NOAA-2_6235_202508011343_137620kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202507301858_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202507302039_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508010656_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508031125_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508031618_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508031754_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508031933_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508040747_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508040927_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508041108_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508041738_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508041917_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508042059_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508050731_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508050911_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508051052_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508052042_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508061845_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508062026_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508070839_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508071019_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508071829_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508072009_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508081003_136770kHz
+[INFO] Launching curvefit for: NOAA-9_15427_202508101920_136770kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202507301545_145825kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202507301545_145840kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202507301545_145880kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508020247_145825kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508020247_145840kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508020247_145880kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508030142_145825kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508030142_145840kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508030142_145880kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508030214_145825kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508030214_145840kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508030214_145880kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508030347_145825kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508030347_145840kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508030347_145880kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508031504_145825kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508031504_145840kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508031504_145880kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508031636_145825kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508031636_145840kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508031636_145880kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508040447_145825kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508040447_145840kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508040447_145880kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508041602_145825kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508041602_145840kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508041602_145880kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508050412_145825kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508050412_145840kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508050412_145880kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508070304_145825kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508070304_145840kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508070304_145880kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508071554_145825kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508071554_145840kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508071554_145880kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508071727_145825kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508071727_145840kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508071727_145880kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508080231_145825kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508080231_145840kHz
+[INFO] Launching curvefit for: SONATE-2_59112_202508080231_145880kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202507301801_136650kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202507301801_136659kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202507312037_136650kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202507312037_136659kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508010401_136650kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508010401_136659kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508010547_136650kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508010547_136659kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508010733_136650kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508010733_136659kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508020447_136650kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508020447_136659kHz
+[ERROR] Processing TRANSIT5B-5_00965_202508020447_136659kHz failed with exit code 1
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508020633_136650kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508020633_136659kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508030534_136650kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508030534_136659kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508030720_136650kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508030720_136659kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508040807_136650kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508040807_136659kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508050707_136650kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508050707_136659kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508051539_136650kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508051539_136659kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508070508_136650kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508070508_136659kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508070654_136650kHz
+[INFO] Launching curvefit for: TRANSIT5B-5_00965_202508070654_136659kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508091025_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508102058_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508110959_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508112045_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508120946_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508121120_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508122032_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508122207_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508130933_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508131107_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508132019_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508132153_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508141054_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508142006_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508142140_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508151041_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508152127_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508161028_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508162114_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508171014_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508172100_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508181001_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508182047_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508190948_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508191123_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508192034_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508192209_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508200935_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508201109_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508202021_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508202156_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508211056_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508212009_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508212142_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508221043_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508222129_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508231030_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508232116_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508241017_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508242103_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508251003_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508252049_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508260950_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508261125_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508262036_145875kHz
+[INFO] Launching curvefit for: Z-Sat_49399_202508270937_145875kHz
+Here1
+Here2
+here5
+None
+None
+5000 0.007 422.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507250446_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 475.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507251537_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 383.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507251713_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 477.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507260444_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 417.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507260619_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 449.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507261535_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 403.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507261711_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 420.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507270442_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 402.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507270617_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 410.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507271534_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 449.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507271709_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 398.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507280441_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 409.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507280616_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 452.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507291530_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 284.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507291706_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 374.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507300437_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 373.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507300612_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 490.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507301528_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 337.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507301704_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 485.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507311526_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 339.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202507311702_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 370.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508010433_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 459.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508010608_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 411.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508011524_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 390.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508011700_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 387.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508020431_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 464.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508020606_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 422.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508021523_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 339.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508021658_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 394.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508030429_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 396.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508030430_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 438.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508030604_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 288.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508031349_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 446.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508031520_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 444.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508031656_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 332.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508040428_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 425.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508040602_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 261.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508041347_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 455.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508041519_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 451.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508041654_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 377.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508050426_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 340.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508050601_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 297.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508051345_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 401.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508051517_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 416.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508051652_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 457.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508060424_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 379.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508060559_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 362.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508061515_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 426.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508061650_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 369.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508070422_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 442.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508070557_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 510.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508071513_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 472.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508071648_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 411.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508080420_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Running plotting scheduler script
+[INFO] Launching curvefit for: FUNcube-1_39444_202507250446_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507250446_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507251537_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507251537_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507251713_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507251713_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507260444_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507260444_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507260619_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507260619_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507261535_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507261535_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507261711_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507261711_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507270442_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507270442_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507270617_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507270617_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507271534_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507271534_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507271709_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507271709_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507280441_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507280441_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507280616_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507280616_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507291530_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507291530_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507291706_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507291706_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507300437_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507300437_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507300612_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507300612_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507301528_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507301528_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507301704_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507301704_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507311526_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507311526_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507311702_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507311702_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508010433_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508010433_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508010608_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508010608_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508011524_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508011524_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508011700_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508011700_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508020431_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508020431_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508020606_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508020606_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508021523_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508021523_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508021658_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508021658_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508030429_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508030429_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508030430_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508030430_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508030604_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508030604_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508031349_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508031349_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508031520_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508031520_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508031656_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508031656_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508040428_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508040428_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508040602_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508040602_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508041347_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508041347_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508041519_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508041519_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508041654_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508041654_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508050426_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508050426_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508050601_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508050601_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508051345_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508051345_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508051517_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508051517_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508051652_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508051652_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508060424_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508060424_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508060559_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508060559_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508061515_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508061515_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508061650_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508061650_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508070422_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508070422_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508070557_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508070557_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508071513_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508071513_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508071648_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508071648_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508080420_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508080420_145935kHz failed with exit code 1Here1
+Here2
+here5
+None
+None
+5000 0.007 408.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508080555_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 404.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508081511_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 382.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508081646_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 335.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508090418_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 373.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508090553_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 431.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508101507_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 409.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508101642_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 488.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508110549_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 652.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508111505_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 371.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508111640_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 460.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508120547_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 342.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508130545_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 492.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508131636_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 424.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508140543_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 517.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508141459_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 292.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508141634_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 397.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508150541_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 456.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508151457_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 422.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508151632_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 462.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508160539_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 394.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508161456_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 412.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508161630_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 585.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508170537_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 316.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508171454_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 452.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508171628_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 435.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508180535_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 384.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508181452_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 422.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508181626_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 372.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508190533_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 307.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508191624_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 399.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508200531_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 482.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508201621_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 430.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508210528_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 471.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508211619_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 372.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508220526_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 404.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508221617_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 411.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508230524_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 464.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508231615_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 410.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508240522_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 452.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508241613_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 314.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508250520_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 369.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508251611_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 322.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508260518_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 391.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508270516_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 409.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508271607_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 463.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508280513_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 454.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508281604_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 421.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508290511_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 466.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508291602_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 407.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508300509_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 452.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508301600_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 411.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508310507_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 436.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202508311558_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 388.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202509010505_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+
+[INFO] Launching curvefit for: FUNcube-1_39444_202508080555_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508080555_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508081511_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508081511_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508081646_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508081646_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508090418_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508090418_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508090553_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508090553_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508101507_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508101507_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508101642_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508101642_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508110549_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508110549_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508111505_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508111505_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508111640_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508111640_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508120547_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508120547_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508130545_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508130545_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508131636_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508131636_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508140543_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508140543_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508141459_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508141459_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508141634_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508141634_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508150541_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508150541_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508151457_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508151457_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508151632_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508151632_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508160539_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508160539_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508161456_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508161456_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508161630_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508161630_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508170537_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508170537_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508171454_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508171454_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508171628_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508171628_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508180535_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508180535_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508181452_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508181452_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508181626_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508181626_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508190533_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508190533_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508191624_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508191624_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508200531_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508200531_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508201621_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508201621_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508210528_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508210528_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508211619_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508211619_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508220526_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508220526_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508221617_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508221617_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508230524_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508230524_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508231615_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508231615_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508240522_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508240522_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508241613_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508241613_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508250520_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508250520_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508251611_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508251611_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508260518_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508260518_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508270516_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508270516_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508271607_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508271607_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508280513_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508280513_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508281604_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508281604_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508290511_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508290511_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508291602_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508291602_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508300509_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508300509_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508301600_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508301600_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508310507_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508310507_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508311558_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508311558_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202509010505_145935kHz
+[ERROR] Processing FUNcube-1_39444_202509010505_145935kHz failed with exit code 1Here1
+Here2
+here5
+None
+None
+5000 0.007 396.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202509020502_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 470.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202509021553_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 458.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202509030500_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 399.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202509031551_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 375.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202509040458_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 404.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202509041549_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 438.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202509050455_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 464.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202509051546_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 373.25 145935000
+[ERROR] Failed to process FUNcube-1_39444_202509060453_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+Here2
+here5
+None
+None
+5000 0.007 505.75 145935000
+[ERROR] Failed to process FUNcube-1_39444_202509061544_145935kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 514.25 145939000
+[ERROR] Failed to process NAYIF_42017_202211141014_145939kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 411.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202507302059_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 478.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202507311853_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 480.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508010841_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 330.25 137620000
+[ERROR] Failed to process NOAA-15_25338_202508011828_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 502.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508012006_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 369.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508012148_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 439.25 137620000
+[ERROR] Failed to process NOAA-15_25338_202508020815_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 617.25 137620000
+[ERROR] Failed to process NOAA-15_25338_202508020954_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 503.25 137620000
+[ERROR] Failed to process NOAA-15_25338_202508021134_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 441.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508021802_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 524.25 137620000
+[ERROR] Failed to process NOAA-15_25338_202508021940_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 395.25 137620000
+[ERROR] Failed to process NOAA-15_25338_202508022121_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 382.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508030749_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 588.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508030928_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 401.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508031737_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 498.25 137620000
+[ERROR] Failed to process NOAA-15_25338_202508031914_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 272.25 137620000
+[ERROR] Failed to process NOAA-15_25338_202508040723_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 272.25 137620000
+[ERROR] Failed to process NOAA-15_25338_202508041713_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 477.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508041848_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 533.25 137620000
+[ERROR] Failed to process NOAA-15_25338_202508050836_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 459.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508060810_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 530.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508060950_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 533.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508061935_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 401.25 137620000
+[ERROR] Failed to process NOAA-15_25338_202508062116_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 589.25 137620000
+[ERROR] Failed to process NOAA-15_25338_202508070923_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 501.25 137620000
+[ERROR] Failed to process NOAA-15_25338_202508071909_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 443.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508072049_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 629.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508081037_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 463.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508082023_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 494.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508090831_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 528.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508110919_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 562.25 137620000
+[ERROR] Failed to process NOAA-15_25338_202508120852_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 606.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508121032_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 484.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508130826_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 570.25 137620000
+[ERROR] Failed to process NOAA-15_25338_202508131006_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 558.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508140940_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 510.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508141926_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 445.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508142106_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 535.25 137620000
+[ERROR] Failed to process NOAA-15_25338_202508150914_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 493.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508160848_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 460.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508161834_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 516.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508162013_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 429.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508170822_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 519.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508171947_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+
+[INFO] Launching curvefit for: FUNcube-1_39444_202509020502_145935kHz
+[ERROR] Processing FUNcube-1_39444_202509020502_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202509021553_145935kHz
+[ERROR] Processing FUNcube-1_39444_202509021553_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202509030500_145935kHz
+[ERROR] Processing FUNcube-1_39444_202509030500_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202509031551_145935kHz
+[ERROR] Processing FUNcube-1_39444_202509031551_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202509040458_145935kHz
+[ERROR] Processing FUNcube-1_39444_202509040458_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202509041549_145935kHz
+[ERROR] Processing FUNcube-1_39444_202509041549_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202509050455_145935kHz
+[ERROR] Processing FUNcube-1_39444_202509050455_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202509051546_145935kHz
+[ERROR] Processing FUNcube-1_39444_202509051546_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202509060453_145935kHz
+[ERROR] Processing FUNcube-1_39444_202509060453_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202509061544_145935kHz
+[ERROR] Processing FUNcube-1_39444_202509061544_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: NAYIF_42017_202211141014_145939kHz
+[ERROR] Processing NAYIF_42017_202211141014_145939kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202507302059_137620kHz
+[ERROR] Processing NOAA-15_25338_202507302059_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202507311853_137620kHz
+[ERROR] Processing NOAA-15_25338_202507311853_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508010841_137620kHz
+[ERROR] Processing NOAA-15_25338_202508010841_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508011828_137620kHz
+[ERROR] Processing NOAA-15_25338_202508011828_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508012006_137620kHz
+[ERROR] Processing NOAA-15_25338_202508012006_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508012148_137620kHz
+[ERROR] Processing NOAA-15_25338_202508012148_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508020815_137620kHz
+[ERROR] Processing NOAA-15_25338_202508020815_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508020954_137620kHz
+[ERROR] Processing NOAA-15_25338_202508020954_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508021134_137620kHz
+[ERROR] Processing NOAA-15_25338_202508021134_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508021802_137620kHz
+[ERROR] Processing NOAA-15_25338_202508021802_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508021940_137620kHz
+[ERROR] Processing NOAA-15_25338_202508021940_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508022121_137620kHz
+[ERROR] Processing NOAA-15_25338_202508022121_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508030749_137620kHz
+[ERROR] Processing NOAA-15_25338_202508030749_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508030928_137620kHz
+[ERROR] Processing NOAA-15_25338_202508030928_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508031737_137620kHz
+[ERROR] Processing NOAA-15_25338_202508031737_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508031914_137620kHz
+[ERROR] Processing NOAA-15_25338_202508031914_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508040723_137620kHz
+[ERROR] Processing NOAA-15_25338_202508040723_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508041713_137620kHz
+[ERROR] Processing NOAA-15_25338_202508041713_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508041848_137620kHz
+[ERROR] Processing NOAA-15_25338_202508041848_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508050836_137620kHz
+[ERROR] Processing NOAA-15_25338_202508050836_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508060810_137620kHz
+[ERROR] Processing NOAA-15_25338_202508060810_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508060950_137620kHz
+[ERROR] Processing NOAA-15_25338_202508060950_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508061935_137620kHz
+[ERROR] Processing NOAA-15_25338_202508061935_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508062116_137620kHz
+[ERROR] Processing NOAA-15_25338_202508062116_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508070923_137620kHz
+[ERROR] Processing NOAA-15_25338_202508070923_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508071909_137620kHz
+[ERROR] Processing NOAA-15_25338_202508071909_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508072049_137620kHz
+[ERROR] Processing NOAA-15_25338_202508072049_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508081037_137620kHz
+[ERROR] Processing NOAA-15_25338_202508081037_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508082023_137620kHz
+[ERROR] Processing NOAA-15_25338_202508082023_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508090831_137620kHz
+[ERROR] Processing NOAA-15_25338_202508090831_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508110919_137620kHz
+[ERROR] Processing NOAA-15_25338_202508110919_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508120852_137620kHz
+[ERROR] Processing NOAA-15_25338_202508120852_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508121032_137620kHz
+[ERROR] Processing NOAA-15_25338_202508121032_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508130826_137620kHz
+[ERROR] Processing NOAA-15_25338_202508130826_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508131006_137620kHz
+[ERROR] Processing NOAA-15_25338_202508131006_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508140940_137620kHz
+[ERROR] Processing NOAA-15_25338_202508140940_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508141926_137620kHz
+[ERROR] Processing NOAA-15_25338_202508141926_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508142106_137620kHz
+[ERROR] Processing NOAA-15_25338_202508142106_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508150914_137620kHz
+[ERROR] Processing NOAA-15_25338_202508150914_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508160848_137620kHz
+[ERROR] Processing NOAA-15_25338_202508160848_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508161834_137620kHz
+[ERROR] Processing NOAA-15_25338_202508161834_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508162013_137620kHz
+[ERROR] Processing NOAA-15_25338_202508162013_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508170822_137620kHz
+[ERROR] Processing NOAA-15_25338_202508170822_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508171947_137620kHz
+[ERROR] Processing NOAA-15_25338_202508171947_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508180935_137620kHzHere1
+None
+5000 0.007 547.25 137620000
+[ERROR] Failed to process NOAA-15_25338_202508180935_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 539.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508190909_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 414.75 137620000
+[ERROR] Failed to process NOAA-15_25338_202508191855_137620kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 498.25 137100000
+[ERROR] Failed to process NOAA-19_33591_202507302315_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 607.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508011258_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 481.25 137100000
+[ERROR] Failed to process NOAA-19_33591_202508011440_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 523.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508012110_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 540.25 137100000
+[ERROR] Failed to process NOAA-19_33591_202508012249_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 436.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508021105_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 570.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508021246_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 584.25 137100000
+[ERROR] Failed to process NOAA-19_33591_202508021427_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 511.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508022058_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 571.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508022236_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 558.25 137100000
+[ERROR] Failed to process NOAA-19_33591_202508030006_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 427.25 137100000
+[ERROR] Failed to process NOAA-19_33591_202508031052_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 577.25 137100000
+[ERROR] Failed to process NOAA-19_33591_202508031233_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 596.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508031414_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 464.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508032046_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 537.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508032224_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 425.25 137100000
+[ERROR] Failed to process NOAA-19_33591_202508041040_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 567.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508041220_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 656.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508041401_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 546.25 137100000
+[ERROR] Failed to process NOAA-19_33591_202508042033_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 572.25 137100000
+[ERROR] Failed to process NOAA-19_33591_202508042211_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 469.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508042353_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 488.25 137100000
+[ERROR] Failed to process NOAA-19_33591_202508051027_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 623.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508051207_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 536.25 137100000
+[ERROR] Failed to process NOAA-19_33591_202508052159_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 453.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508052340_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 570.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508061155_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 622.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508061336_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 556.25 137100000
+[ERROR] Failed to process NOAA-19_33591_202508062146_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 496.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508062327_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 572.25 137100000
+[ERROR] Failed to process NOAA-19_33591_202508071142_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 580.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508071323_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 489.25 137100000
+[ERROR] Failed to process NOAA-19_33591_202508072134_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 502.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508072314_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 562.25 137100000
+[ERROR] Failed to process NOAA-19_33591_202508081129_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 601.25 137100000
+[ERROR] Failed to process NOAA-19_33591_202508081310_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 484.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508082122_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 520.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508082301_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 479.75 137100000
+[ERROR] Failed to process NOAA-19_33591_202508091117_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+Here1
+None
+5000 0.007 573.25 137100000
+[ERROR] Failed to process NOAA-19_33591_202508101245_137100kHz: Line2D.set() got an unexpected keyword argument 'range'
+[ERROR] Failed to retrieve YML file for file NOAA-19_33591_202508141154_137100kHz: [Errno 2] No such file or directory: '/home/doptrackbox/tudelft_webdrive/staff-umbrella/doptrack/archive/Dylano/DopTrackBox/NOAA-19/2025/NOAA-19_33591_202508141154.yml'
+[ERROR] Failed to retrieve YML file for file NOAA-19_33591_202508141335_137100kHz: [Errno 2] No such file or directory: '/home/doptrackbox/tudelft_webdrive/staff-umbrella/doptrack/archive/Dylano/DopTrackBox/NOAA-19/2025/NOAA-19_33591_202508141335.yml'
+[ERROR] Failed to retrieve YML file for file NOAA-19_33591_202508142326_137100kHz: [Errno 2] No such file or directory: '/home/doptrackbox/tudelft_webdrive/staff-umbrella/doptrack/archive/Dylano/DopTrackBox/NOAA-19/2025/NOAA-19_33591_202508142326.yml'
+
+[ERROR] Processing NOAA-15_25338_202508180935_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508190909_137620kHz
+[ERROR] Processing NOAA-15_25338_202508190909_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-15_25338_202508191855_137620kHz
+[ERROR] Processing NOAA-15_25338_202508191855_137620kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202507302315_137100kHz
+[ERROR] Processing NOAA-19_33591_202507302315_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508011258_137100kHz
+[ERROR] Processing NOAA-19_33591_202508011258_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508011440_137100kHz
+[ERROR] Processing NOAA-19_33591_202508011440_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508012110_137100kHz
+[ERROR] Processing NOAA-19_33591_202508012110_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508012249_137100kHz
+[ERROR] Processing NOAA-19_33591_202508012249_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508021105_137100kHz
+[ERROR] Processing NOAA-19_33591_202508021105_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508021246_137100kHz
+[ERROR] Processing NOAA-19_33591_202508021246_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508021427_137100kHz
+[ERROR] Processing NOAA-19_33591_202508021427_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508022058_137100kHz
+[ERROR] Processing NOAA-19_33591_202508022058_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508022236_137100kHz
+[ERROR] Processing NOAA-19_33591_202508022236_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508030006_137100kHz
+[ERROR] Processing NOAA-19_33591_202508030006_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508031052_137100kHz
+[ERROR] Processing NOAA-19_33591_202508031052_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508031233_137100kHz
+[ERROR] Processing NOAA-19_33591_202508031233_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508031414_137100kHz
+[ERROR] Processing NOAA-19_33591_202508031414_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508032046_137100kHz
+[ERROR] Processing NOAA-19_33591_202508032046_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508032224_137100kHz
+[ERROR] Processing NOAA-19_33591_202508032224_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508041040_137100kHz
+[ERROR] Processing NOAA-19_33591_202508041040_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508041220_137100kHz
+[ERROR] Processing NOAA-19_33591_202508041220_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508041401_137100kHz
+[ERROR] Processing NOAA-19_33591_202508041401_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508042033_137100kHz
+[ERROR] Processing NOAA-19_33591_202508042033_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508042211_137100kHz
+[ERROR] Processing NOAA-19_33591_202508042211_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508042353_137100kHz
+[ERROR] Processing NOAA-19_33591_202508042353_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508051027_137100kHz
+[ERROR] Processing NOAA-19_33591_202508051027_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508051207_137100kHz
+[ERROR] Processing NOAA-19_33591_202508051207_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508052159_137100kHz
+[ERROR] Processing NOAA-19_33591_202508052159_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508052340_137100kHz
+[ERROR] Processing NOAA-19_33591_202508052340_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508061155_137100kHz
+[ERROR] Processing NOAA-19_33591_202508061155_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508061336_137100kHz
+[ERROR] Processing NOAA-19_33591_202508061336_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508062146_137100kHz
+[ERROR] Processing NOAA-19_33591_202508062146_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508062327_137100kHz
+[ERROR] Processing NOAA-19_33591_202508062327_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508071142_137100kHz
+[ERROR] Processing NOAA-19_33591_202508071142_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508071323_137100kHz
+[ERROR] Processing NOAA-19_33591_202508071323_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508072134_137100kHz
+[ERROR] Processing NOAA-19_33591_202508072134_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508072314_137100kHz
+[ERROR] Processing NOAA-19_33591_202508072314_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508081129_137100kHz
+[ERROR] Processing NOAA-19_33591_202508081129_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508081310_137100kHz
+[ERROR] Processing NOAA-19_33591_202508081310_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508082122_137100kHz
+[ERROR] Processing NOAA-19_33591_202508082122_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508082301_137100kHz
+[ERROR] Processing NOAA-19_33591_202508082301_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508091117_137100kHz
+[ERROR] Processing NOAA-19_33591_202508091117_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508101245_137100kHz
+[ERROR] Processing NOAA-19_33591_202508101245_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508141154_137100kHz
+[ERROR] Processing NOAA-19_33591_202508141154_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508141335_137100kHz
+[ERROR] Processing NOAA-19_33591_202508141335_137100kHz failed with exit code 1
+[INFO] Launching curvefit for: NOAA-19_33591_202508142326_137100kHz
+[ERROR] Processing NOAA-19_33591_202508142326_137100kHz failed with exit code 1
+Mounting webdrive...
+Webdrive mounted successfully at /home/doptrackbox/tudelft_webdrive.
+[ERROR] Failed to process FUNcube-1_39444_202507301528_145935kHz: `ydata` must not be empty!
+[ERROR] Failed to process FUNcube-1_39444_202508030430_145935kHz: `ydata` must not be empty!
+[ERROR] Failed to process FUNcube-1_39444_202508030604_145935kHz: `ydata` must not be empty!
+[ERROR] Failed to process FUNcube-1_39444_202508141634_145935kHz: `ydata` must not be empty!
+[ERROR] Failed to process FUNcube-1_39444_202508151457_145935kHz: `ydata` must not be empty!
+[ERROR] Failed to process FUNcube-1_39444_202508161456_145935kHz: `ydata` must not be empty!
+[ERROR] Failed to process FUNcube-1_39444_202508250520_145935kHz: `ydata` must not be empty!
+Running plotting scheduler script
+[INFO] Launching curvefit for: FUNcube-1_39444_202507250446_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507251537_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507251713_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507260444_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507260619_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507261535_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507261711_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507270442_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507270617_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507271534_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507271709_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507280441_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507280616_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507291530_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507291706_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507300437_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507300612_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507301528_145935kHz
+[ERROR] Processing FUNcube-1_39444_202507301528_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202507301704_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507311526_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202507311702_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508010433_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508010608_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508011524_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508011700_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508020431_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508020606_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508021523_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508021658_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508030429_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508030430_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508030430_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508030604_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508030604_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508031349_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508031520_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508031656_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508040428_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508040602_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508041347_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508041519_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508041654_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508050426_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508050601_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508051345_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508051517_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508051652_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508060424_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508060559_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508061515_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508061650_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508070422_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508070557_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508071513_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508071648_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508080420_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508080555_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508081511_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508081646_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508090418_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508090553_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508101507_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508101642_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508110549_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508111505_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508111640_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508120547_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508130545_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508131636_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508140543_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508141459_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508141634_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508141634_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508150541_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508151457_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508151457_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508151632_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508160539_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508161456_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508161456_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508161630_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508170537_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508171454_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508171628_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508180535_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508181452_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508181626_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508190533_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508191624_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508200531_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508201621_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508210528_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508211619_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508220526_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508221617_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508230524_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508231615_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508240522_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508241613_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508250520_145935kHz
+[ERROR] Processing FUNcube-1_39444_202508250520_145935kHz failed with exit code 1
+[INFO] Launching curvefit for: FUNcube-1_39444_202508251611_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508260518_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508270516_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508271607_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508280513_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508281604_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508290511_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508291602_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508300509_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508301600_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508310507_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508311558_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509010505_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509020502_145935kHzWebdrive unmounted from /home/doptrackbox/tudelft_webdrive.
+
+[INFO] Launching curvefit for: FUNcube-1_39444_202509021553_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509030500_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509031551_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509040458_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509041549_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509050455_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509051546_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509060453_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509061544_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509070450_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509070625_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509071541_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509080448_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509080623_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509081539_145935kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202507302059_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202507311853_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508010841_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508011828_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508012006_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508012148_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508020815_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508020954_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508021134_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508021802_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508021940_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508022121_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508030749_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508030928_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508031737_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508031914_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508040723_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508041713_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508041848_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508050836_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508060810_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508060950_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508061935_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508062116_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508070923_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508071909_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508072049_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508081037_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508082023_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508090831_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508110919_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508120852_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508121032_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508130826_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508131006_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508140940_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508141926_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508142106_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508150914_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508160848_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508161834_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508162013_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508170822_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508171947_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508180935_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508190909_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508191855_137620kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202507302315_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508011258_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508011440_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508012110_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508012249_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508021105_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508021246_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508021427_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508022058_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508022236_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508030006_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508031052_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508031233_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508031414_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508032046_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508032224_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508041040_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508041220_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508041401_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508042033_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508042211_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508042353_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508051027_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508051207_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508052159_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508052340_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508061155_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508061336_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508062146_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508062327_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508071142_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508071323_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508072134_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508072314_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508081129_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508081310_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508082122_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508082301_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508091117_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508101245_137100kHz
+/home/doptrackbox/miniconda3/envs/venv/lib/python3.13/site-packages/numpy/_core/fromnumeric.py:3860: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/doptrackbox/miniconda3/envs/venv/lib/python3.13/site-packages/numpy/_core/_methods.py:144: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/home/doptrackbox/miniconda3/envs/venv/lib/python3.13/site-packages/numpy/fft/_pocketfft.py:101: RuntimeWarning: invalid value encountered in cast
+  return ufunc(a, fct, axes=[(axis,), (), (axis,)], out=out)
+/home/doptrackbox/miniconda3/envs/venv/lib/python3.13/site-packages/numpy/fft/_pocketfft.py:101: RuntimeWarning: invalid value encountered in fft
+  return ufunc(a, fct, axes=[(axis,), (), (axis,)], out=out)
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+No noise! The image will be empty!
+Running processing scheduler script
+[INFO] Launching processing for: FUNcube-1_39444_202508050601
+[INFO] Launching processing for: FUNcube-1_39444_202508051345
+[INFO] Launching processing for: FUNcube-1_39444_202508051517
+[INFO] Launching processing for: FUNcube-1_39444_202508051652
+[INFO] Launching processing for: FUNcube-1_39444_202508060424
+[INFO] Launching processing for: FUNcube-1_39444_202508060559
+[INFO] Launching processing for: FUNcube-1_39444_202508061515
+[INFO] Launching processing for: FUNcube-1_39444_202508061650
+[INFO] Launching processing for: FUNcube-1_39444_202508070422
+[INFO] Launching processing for: FUNcube-1_39444_202508070557
+[INFO] Launching processing for: FUNcube-1_39444_202508071513
+[INFO] Launching processing for: FUNcube-1_39444_202508071648
+[INFO] Launching processing for: FUNcube-1_39444_202508080420
+[INFO] Launching processing for: FUNcube-1_39444_202508080555
+[INFO] Launching processing for: FUNcube-1_39444_202508081511
+[INFO] Launching processing for: FUNcube-1_39444_202508081646
+[INFO] Launching processing for: FUNcube-1_39444_202508090418
+[INFO] Launching processing for: FUNcube-1_39444_202508090553
+[INFO] Launching processing for: FUNcube-1_39444_202508101507
+[INFO] Launching processing for: FUNcube-1_39444_202508101642
+[INFO] Launching processing for: FUNcube-1_39444_202508110549
+[INFO] Launching processing for: FUNcube-1_39444_202508111505
+[INFO] Launching processing for: FUNcube-1_39444_202508111640
+[INFO] Launching processing for: FUNcube-1_39444_202508120547
+[INFO] Launching processing for: FUNcube-1_39444_202508130545
+[INFO] Launching processing for: FUNcube-1_39444_202508131636
+[INFO] Launching processing for: NOAA-15_25338_202507302059
+[INFO] Launching processing for: NOAA-15_25338_202507311853
+[INFO] Launching processing for: NOAA-15_25338_202508010841
+[INFO] Launching processing for: NOAA-15_25338_202508011828
+[INFO] Launching processing for: NOAA-15_25338_202508012006
+[INFO] Launching processing for: NOAA-15_25338_202508012148
+[INFO] Launching processing for: NOAA-15_25338_202508020815
+[INFO] Launching processing for: NOAA-15_25338_202508020954
+[INFO] Launching processing for: NOAA-15_25338_202508021134
+[INFO] Launching processing for: NOAA-15_25338_202508021802
+[INFO] Launching processing for: NOAA-15_25338_202508021940
+[INFO] Launching processing for: NOAA-15_25338_202508022121
+[INFO] Launching processing for: NOAA-15_25338_202508030749
+[INFO] Launching processing for: NOAA-15_25338_202508030928
+[INFO] Launching processing for: NOAA-15_25338_202508031737
+[INFO] Launching processing for: NOAA-15_25338_202508031914
+[INFO] Launching processing for: NOAA-15_25338_202508040723
+[INFO] Launching processing for: NOAA-15_25338_202508041713
+[INFO] Launching processing for: NOAA-15_25338_202508041848
+[INFO] Launching processing for: NOAA-15_25338_202508050836
+[INFO] Launching processing for: NOAA-15_25338_202508060810
+[INFO] Launching processing for: NOAA-15_25338_202508060950
+[INFO] Launching processing for: NOAA-15_25338_202508061935
+[INFO] Launching processing for: NOAA-15_25338_202508062116
+[INFO] Launching processing for: NOAA-15_25338_202508070923
+[INFO] Launching processing for: NOAA-15_25338_202508071909
+[INFO] Launching processing for: NOAA-15_25338_202508072049
+[INFO] Launching processing for: NOAA-15_25338_202508081037
+[INFO] Launching processing for: NOAA-15_25338_202508082023
+[INFO] Launching processing for: NOAA-15_25338_202508090831
+[INFO] Launching processing for: NOAA-15_25338_202508110919
+[INFO] Launching processing for: NOAA-15_25338_202508120852
+[INFO] Launching processing for: NOAA-15_25338_202508121032
+[INFO] Launching processing for: NOAA-15_25338_202508130826
+[INFO] Launching processing for: NOAA-15_25338_202508131006
+[INFO] Launching processing for: NOAA-19_33591_202507302315
+[INFO] Launching processing for: NOAA-19_33591_202508011258
+[INFO] Launching processing for: NOAA-19_33591_202508011440
+[INFO] Launching processing for: NOAA-19_33591_202508012110
+[INFO] Launching processing for: NOAA-19_33591_202508012249
+[INFO] Launching processing for: NOAA-19_33591_202508021105
+[INFO] Launching processing for: NOAA-19_33591_202508021246
+[INFO] Launching processing for: NOAA-19_33591_202508021427
+[INFO] Launching processing for: NOAA-19_33591_202508022058
+[INFO] Launching processing for: NOAA-19_33591_202508022236
+[INFO] Launching processing for: NOAA-19_33591_202508030006
+[INFO] Launching processing for: NOAA-19_33591_202508031052
+[INFO] Launching processing for: NOAA-19_33591_202508031233
+[INFO] Launching processing for: NOAA-19_33591_202508031414
+[INFO] Launching processing for: NOAA-19_33591_202508032046
+[INFO] Launching processing for: NOAA-19_33591_202508032224
+[INFO] Launching processing for: NOAA-19_33591_202508041040
+[INFO] Launching processing for: NOAA-19_33591_202508041220
+[INFO] Launching processing for: NOAA-19_33591_202508041401
+[INFO] Launching processing for: NOAA-19_33591_202508042033
+[INFO] Launching processing for: NOAA-19_33591_202508042211
+[INFO] Launching processing for: NOAA-19_33591_202508042353
+[INFO] Launching processing for: NOAA-19_33591_202508051027
+[INFO] Launching processing for: NOAA-19_33591_202508051207
+[INFO] Launching processing for: NOAA-19_33591_202508052159
+[INFO] Launching processing for: NOAA-19_33591_202508052340
+[INFO] Launching processing for: NOAA-19_33591_202508061155
+[INFO] Launching processing for: NOAA-19_33591_202508061336
+[INFO] Launching processing for: NOAA-19_33591_202508062146
+[INFO] Launching processing for: NOAA-19_33591_202508062327
+[INFO] Launching processing for: NOAA-19_33591_202508071142
+[INFO] Launching processing for: NOAA-19_33591_202508071323
+[INFO] Launching processing for: NOAA-19_33591_202508072134
+[INFO] Launching processing for: NOAA-19_33591_202508072314
+[INFO] Launching processing for: NOAA-19_33591_202508081129
+[INFO] Launching processing for: NOAA-19_33591_202508081310
+[INFO] Launching processing for: NOAA-19_33591_202508082122
+[INFO] Launching processing for: NOAA-19_33591_202508082301
+[INFO] Launching processing for: NOAA-19_33591_202508091117
+[INFO] Launching processing for: NOAA-19_33591_202508101245
+[INFO] Launching processing for: NOAA-2_6235_202508011000
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Running plotting scheduler script
+[INFO] Launching curvefit for: FUNcube-1_39444_202508101642_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508110549_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508111505_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508111640_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508120547_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508130545_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508131636_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508140543_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508141459_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508141634_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508150541_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508151457_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508151632_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508160539_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508161456_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508161630_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508170537_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508171454_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508171628_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508180535_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508181452_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508181626_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508190533_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508191624_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508200531_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508201621_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508210528_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508211619_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508220526_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508221617_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508230524_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508231615_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508240522_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508241613_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508250520_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508251611_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508260518_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508270516_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508271607_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508280513_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508281604_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508290511_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508291602_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508300509_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508301600_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508310507_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202508311558_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509010505_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509020502_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509021553_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509030500_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509031551_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509040458_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509041549_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509050455_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509051546_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509060453_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509061544_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509070450_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509070625_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509071541_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509080448_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509080623_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509081539_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509090445_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509090621_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509091537_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509100443_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509100618_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509101534_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509110441_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509110616_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509111532_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509120438_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509120613_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509121529_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509130436_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509130610_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509131527_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509131702_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509140433_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509140608_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509141524_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509141659_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509150431_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509150605_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509151522_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509151657_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509160428_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509160603_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509161519_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509161654_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509170425_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509170600_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509171517_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509171652_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509180423_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509180558_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509181514_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509181649_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509190420_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509190555_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509191512_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509191646_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509200418_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509200552_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509201509_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509201644_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509210550_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509211506_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509211641_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509220547_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509221504_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509221638_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509230410_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509230544_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509230720_145935kHzUsing DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+Using DopTrack data initial guess...
+
+[INFO] Launching curvefit for: FUNcube-1_39444_202509231501_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509231635_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509240407_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509240542_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509240717_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509241458_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509241633_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509250404_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509250539_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509250714_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509251456_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509251630_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509260402_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509260536_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509260712_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509261453_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509261627_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509270359_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509270533_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509270709_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509271450_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509271624_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509280356_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509280530_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509280706_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509281447_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509281621_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509290353_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509290527_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509290703_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509291445_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509291618_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509291756_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509300350_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509300525_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509300700_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509301442_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509301615_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202509301753_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510010347_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510010522_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510010657_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510011439_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510011612_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510011750_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510020344_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510020518_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510020654_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510021436_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510021609_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510021746_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510030341_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510030515_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510030651_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510031433_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510031606_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510031743_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510040338_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510040512_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510040648_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510041430_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510041603_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510041740_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510050335_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510050509_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510050644_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510051427_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510051600_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510051737_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510060332_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510060506_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510060641_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510061424_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510061557_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510061733_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510070329_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510070503_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510070638_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510071421_145935kHz
+[INFO] Launching curvefit for: FUNcube-1_39444_202510071554_145935kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202507302059_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202507311853_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508010841_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508011828_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508012006_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508012148_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508020815_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508020954_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508021134_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508021802_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508021940_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508022121_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508030749_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508030928_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508031737_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508031914_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508040723_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508041713_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508041848_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508050836_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508060810_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508060950_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508061935_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508062116_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508070923_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508071909_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508072049_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508081037_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508082023_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508090831_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508110919_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508120852_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508121032_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508130826_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508131006_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508140940_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508141926_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508142106_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508150914_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508160848_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508161834_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508162013_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508170822_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508171947_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508180935_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508190909_137620kHz
+[INFO] Launching curvefit for: NOAA-15_25338_202508191855_137620kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202507302315_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508011258_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508011440_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508012110_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508012249_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508021105_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508021246_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508021427_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508022058_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508022236_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508030006_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508031052_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508031233_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508031414_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508032046_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508032224_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508041040_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508041220_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508041401_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508042033_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508042211_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508042353_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508051027_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508051207_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508052159_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508052340_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508061155_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508061336_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508062146_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508062327_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508071142_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508071323_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508072134_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508072314_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508081129_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508081310_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508082122_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508082301_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508091117_137100kHz
+[INFO] Launching curvefit for: NOAA-19_33591_202508101245_137100kHz

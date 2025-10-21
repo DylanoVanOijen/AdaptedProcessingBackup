@@ -216,8 +216,9 @@ def plot_sig_noise_snr(DT_data, DTB_data, tune, file):
     ax3.set_ylabel('Signal-to-Noise Ratio [-]')
     ax4.set_ylabel('Signal-to-Noise Ratio [dB]')
 
-    ax3.set_title(f"SNR Comparison of Pass {file}")
-    ax4.set_title(f"SNR Comparison of Pass {file}")
+    file_without_freq = file.rsplit('_', 1)[0]
+    ax3.set_title(f"SNR Comparison of Pass {file_without_freq}")
+    ax4.set_title(f"SNR Comparison of Pass {file_without_freq}")
 
     #ax_1.set_ylim(0, 40)
     lowest_minimum = min(np.min(DT_time), np.min(DTB_time))
@@ -261,6 +262,13 @@ def plot_sig_noise_snr(DT_data, DTB_data, tune, file):
     gc.collect()    
 
 
+def save_summary_yaml(snr_DT, snr_DTB, file, elevation):
+    snr_values = {'peak_DT': float(np.max(snr_DT)), 'peak_DTB': float(np.max(snr_DTB)), 'mean_DT': float(np.mean(snr_DT)), 'mean_DTB': float(np.mean(snr_DTB)), 'elevation': float(elevation)}
+    outpath = EXTRACTION_LOC + "/DopTrack/SNRComparison/"
+    os.makedirs(outpath, exist_ok=True)
+    with open(outpath+f"snr_summary_{file}.yml", 'w') as f:
+        yaml.dump(snr_values, f)
+
 def update_processed_log(processed_file):
     with open(LOG_FILE, 'a') as f:
         f.write(processed_file + '\n')
@@ -282,6 +290,7 @@ if __name__ == "__main__":
         
         # Then find and load the yml file to retrieve tuning freq and supposed rec start time
         yml = find_yml(FILE, name, year)
+        elevation = yml['Sat']['Predict']['Elevation']
         TUNE = yml['Sat']['State']['Tuning Frequency']
         REC_START = yml['Sat']['Record']['time1 UTC'].replace(tzinfo=timezone.utc) # Time is stored in YML as UTC, the filename is Local Time
         REC_END = yml['Sat']['Record']['time2 UTC'].replace(tzinfo=timezone.utc)
@@ -300,9 +309,13 @@ if __name__ == "__main__":
             print("Found DT data")
             starttime_diff = (DT_starttime - RECOMPUTED_REC_START).total_seconds()
             DTB_data[:,0] -= starttime_diff # Start times of the recordings is not the same, so shift DT data to start w.r.t. DTB start time
+            #print("1")
             plot_2d_freq(DT_data, DTB_data, TUNE, FILE, False)
-            plot_2d_freq(DT_data, DTB_data, TUNE, FILE, True)
+            #print("2")
+            #plot_2d_freq(DT_data, DTB_data, TUNE, FILE, True)
             plot_sig_noise_snr(DT_data, DTB_data, TUNE, FILE)
+            save_summary_yaml(ratio_to_db(DT_data[:,4]), ratio_to_db(DTB_data[:,4]), FILE, elevation)
+            #print("4")
         else:
             print("NO DT data")
 

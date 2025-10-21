@@ -10,11 +10,10 @@ import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 from cmcrameri import cm
 from numpy.fft import fft, fftfreq, fftshift
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from matplotlib.colors import LogNorm
 from scipy.optimize import curve_fit, least_squares
 from scipy import constants
-from datetime import datetime, timedelta
 from scipy.interpolate import interp1d
 
 plt.switch_backend('Agg')
@@ -424,8 +423,8 @@ if __name__ == "__main__":
                 plot_raw_freq(DT_freq_data[:,0], DT_freq_data[:,1], filtered_DTB_data[:,0], filtered_DTB_data[:,1], filtered_DTB_data[:,4], TUNE, FILE, interpolation_function)
 
                 params0 = [0.0, 0.0]  # [delta_t, delta_f]
-                lower = [-6, -50]
-                upper = [6, 50]
+                lower = [-10, -100]
+                upper = [10, 100]
                 #lower = [-6, -0.1]
                 #upper = [6, 0.1]
                 result = least_squares(data_shift_residuals, params0, bounds=(lower, upper), jac='3-point', args=(filtered_DTB_data[:,0], filtered_DTB_data[:,1], interpolation_function, DT_freq_data[:,0], DT_tca_wrt_start))

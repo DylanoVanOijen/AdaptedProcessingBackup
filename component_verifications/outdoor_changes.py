@@ -154,10 +154,13 @@ for file, label, ax in zip(file_names, labels, axes):
     ax.scatter(DT_time, ratio_to_db(DT_snr), s=10, label = "DopTrack") 
     ax.scatter(DTB_time, ratio_to_db(DTB_snr), s=10, label = "DopTrackBox")
     
+    file_without_freq = file.rsplit('_', 1)[0]
     ax.set_xlim(DT_time[0], DT_time[-1])    
-    ax.set_title(label)
+    ax.set_title(label + f"\n ({file_without_freq})")
     if current_row == rows:
         ax.set_xlabel("Time [s]")
+    if current_col == 1:
+        ax.set_ylabel('Signal-to-Noise Ratio [dB]')
     ax.set_ylabel('Signal-to-Noise Ratio [dB]')
     ax.grid()
     ax.legend()
